@@ -1,0 +1,17 @@
+body {
+    background-color: #F5EBE9;
+}
+
+h1 {
+    font-family: Papyrus, Copperplate, monospace;
+    text-align: center;
+}
+
+.recips-list {
+    font-size: 22px;
+    font-family: Garamond, Georgia, serif;
+}
+
+a {
+    color: #7A625C;
+}
